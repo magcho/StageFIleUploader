@@ -9,6 +9,11 @@ MITライセンスで許可された範囲であれば、個人でも商用で�
 
 UIにはhttps://bootsnipp.com/snippets/KrG5l copyright (c) daleitchを使用させていただきました。
 
+![](./resource/01.png)
+![](./resource/02.png)
+![](./resource/03.png)
+![](./resource/04.png)
+![](./resource/05.png)
 # Usage
 
 * slack.phpを開き8~9行目を設定してください。
@@ -34,7 +39,7 @@ UIにはhttps://bootsnipp.com/snippets/KrG5l copyright (c) daleitchを使用さ�
           .
   }]
   ```
-  
+
 
   | 項目名 | 概要 |
   | :------------- | :------------- |
