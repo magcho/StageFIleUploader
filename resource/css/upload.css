@@ -1,0 +1,101 @@
+.upload-wrapper {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+#logout {
+  margin-top: 3em;
+}
+
+.line {
+  border-top: solid 3px black;
+  margin-bottom: 3em;
+}
+
+thead {
+  border-bottom: 3px double #ddd;
+  font-weight: bold;
+}
+
+div.codetitle {
+  line-height: 34px;
+  font-size: 34px;
+  float: left;
+  margin-right: 1em;
+}
+
+.code div {
+  margin-right: 0.2em;
+  float: left;
+  text-align: center;
+  font-size: 34px;
+  line-height: 34px;
+  box-sizing: border-box;
+  width: 34px;
+  height: 34px;
+  background: #ddd;
+  background-clip: border-box;
+  border: solid 1px black;
+  border-radius: 5px;
+}
+
+#code-descpretion {
+  margin-top: 2em;
+}
+
+
+/**
+ * https://bootsnipp.com/snippets/KrG5l
+ * copyright (c) daleitch
+ * LICENSE: MIT license.
+*/
+
+
+/* layout.css Style */
+
+.upload-drop-zone {
+  height: 200px;
+  border-width: 2px;
+  margin-bottom: 20px;
+}
+
+
+/* skin.css Style*/
+
+.upload-drop-zone {
+  color: #ccc;
+  border-style: dashed;
+  border-color: #ccc;
+  padding-top: 3em;
+  text-align: center
+}
+
+.upload-drop-zone.drop {
+  color: #222;
+  border-color: #222;
+}
+
+.image-preview-input {
+  position: relative;
+  overflow: hidden;
+  margin: 0px;
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+.image-preview-input input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.image-preview-input-title {
+  margin-left: 2px;
+}
