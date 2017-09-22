@@ -52,13 +52,6 @@ UIにはhttps://bootsnipp.com/snippets/KrG5l copyright (c) daleitchを使用さ�
   upload_max_filesize = 50M
   ```
 
-# コピーライト
-必ず以下のコピーライトを最初にアクセスするページ(ログイン画面等)に記載してください。
-
-````
-Copyright (c) 2017 MagCho
-````
-
 
 # LICNENSE
 
